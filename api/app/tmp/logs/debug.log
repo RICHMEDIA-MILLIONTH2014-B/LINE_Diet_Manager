@@ -1,0 +1,1602 @@
+2014-08-08 01:14:21 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 87]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 87
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 01:14:55 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 87]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 87
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 01:15:08 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 87]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 87
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 01:15:27 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 87]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 87
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 01:15:37 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 87]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 87
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 01:25:17 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 87]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 87
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 01:52:51 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 87]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 87
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 01:54:05 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 87]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 87
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 01:54:16 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 87]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 87
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 01:55:46 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 87]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 87
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 01:55:51 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 87]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 87
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 01:57:45 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 87]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 87
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 01:58:28 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 87]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 87
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 02:01:29 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 87]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 87
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 02:02:32 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 87]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 87
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 02:02:38 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 87]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 87
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 02:06:40 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 87]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 87
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 02:20:13 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 02:21:08 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 02:23:53 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 02:24:48 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 02:35:18 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 02:36:00 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 02:39:27 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 02:39:55 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 02:41:42 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 02:52:15 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 02:56:32 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 02:58:31 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 02:59:44 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 03:03:03 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 03:03:59 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 03:05:18 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 03:05:30 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 03:06:02 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 03:06:22 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 03:20:30 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 03:20:37 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 04:43:40 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 04:43:49 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 04:43:58 Notice: Notice (8): Undefined index: method_id in [/var/www/html/api/app/Controller/PostsController.php, line 97]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 97
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 04:43:58 Notice: Notice (8): Undefined index: method_id in [/var/www/html/api/app/Controller/PostsController.php, line 148]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 148
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 04:47:37 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 04:47:40 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 04:48:53 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 04:51:54 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 04:53:15 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:13:41 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:14:12 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:14:24 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:14:38 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:14:48 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:15:22 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:15:49 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:15:53 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:15:55 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:15:56 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:15:57 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:15:57 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:16:00 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:16:02 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:16:03 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:16:06 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:16:06 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:16:06 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:17:45 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:17:56 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:18:09 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:18:21 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:18:32 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:18:48 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:20:10 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:20:12 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:20:12 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:20:13 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:20:13 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:20:13 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:20:20 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:20:22 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:21:04 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:42:51 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:42:53 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:42:59 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:44:31 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:45:16 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:46:05 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 05:56:06 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 95]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 95
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 06:15:33 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 171]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 171
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 06:15:50 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 171]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 171
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 06:19:40 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 171]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 171
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 06:19:40 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 171]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 171
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 06:19:46 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 171]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 171
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 06:35:15 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 171]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 171
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 06:42:16 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 171]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 171
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 06:47:13 Notice: Notice (8): Undefined variable: result in [/var/www/html/api/app/Controller/PostsController.php, line 310]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 310
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 06:47:25 Notice: Notice (8): Undefined variable: result in [/var/www/html/api/app/Controller/PostsController.php, line 310]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 310
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 06:51:24 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 171]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 171
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 07:16:14 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 171]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 171
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-08 15:45:00 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 171]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 171
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-09 07:43:13 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 171]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 171
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:33 Notice: Notice (8): Undefined index: User in [/var/www/html/api/app/Controller/RecodesController.php, line 43]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 43
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:33 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 68]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 68
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:33 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 69]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 69
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:33 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 70]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 70
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:33 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 71]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 71
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:33 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 72]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 72
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:33 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 75]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:33 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 76]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 76
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:33 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 77]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:33 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 78]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 78
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:33 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 79]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:42 Notice: Notice (8): Undefined index: User in [/var/www/html/api/app/Controller/RecodesController.php, line 43]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 43
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:42 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 68]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 68
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:42 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 69]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 69
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:42 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 70]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 70
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:42 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 71]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 71
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:42 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 72]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 72
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:42 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 75]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:42 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 76]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 76
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:42 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 77]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:42 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 78]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 78
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:42 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 79]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:46 Notice: Notice (8): Undefined index: User in [/var/www/html/api/app/Controller/RecodesController.php, line 43]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 43
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:46 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 68]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 68
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:46 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 69]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 69
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:46 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 70]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 70
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:46 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 71]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 71
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:46 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 72]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 72
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:46 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 75]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:46 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 76]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 76
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:46 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 77]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:46 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 78]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 78
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:46 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 79]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:49 Notice: Notice (8): Undefined index: User in [/var/www/html/api/app/Controller/RecodesController.php, line 43]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 43
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:49 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 68]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 68
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:49 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 69]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 69
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:49 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 70]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 70
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:49 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 71]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 71
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:49 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 72]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 72
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:49 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 75]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:49 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 76]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 76
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:49 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 77]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:49 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 78]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 78
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:20:49 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 79]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:21:01 Notice: Notice (8): Undefined index: User in [/var/www/html/api/app/Controller/RecodesController.php, line 43]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 43
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:21:01 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 68]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 68
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:21:01 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 69]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 69
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:21:01 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 70]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 70
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:21:01 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 71]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 71
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:21:01 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 72]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 72
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:21:01 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 75]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:21:01 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 76]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 76
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:21:01 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 77]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:21:01 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 78]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 78
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:21:01 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 79]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:24:30 Notice: Notice (8): Undefined index: User in [/var/www/html/api/app/Controller/RecodesController.php, line 43]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 43
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:24:30 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 68]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 68
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:24:30 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 69]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 69
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:24:30 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 70]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 70
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:24:30 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 71]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 71
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:24:30 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 72]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 72
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:24:30 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 75]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:24:30 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 76]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 76
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:24:30 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 77]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:24:30 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 78]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 78
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:24:30 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 79]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:25:00 Notice: Notice (8): Undefined index: context in [/var/www/html/api/app/Controller/PostsController.php, line 171]
+Trace:
+PostsController::post() - APP/Controller/PostsController.php, line 171
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:25:40 Notice: Notice (8): Undefined index: User in [/var/www/html/api/app/Controller/RecodesController.php, line 43]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 43
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:25:40 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 68]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 68
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:25:40 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 69]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 69
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:25:40 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 70]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 70
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:25:40 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 71]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 71
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:25:40 Notice: Notice (8): Undefined variable: day in [/var/www/html/api/app/Controller/RecodesController.php, line 72]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 72
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:25:40 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 75]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 75
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:25:40 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 76]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 76
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:25:40 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 77]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 77
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:25:40 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 78]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 78
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+
+2014-08-11 01:25:40 Notice: Notice (8): Undefined variable: calorie in [/var/www/html/api/app/Controller/RecodesController.php, line 79]
+Trace:
+RecodesController::graph() - APP/Controller/RecodesController.php, line 79
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 191
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 165
+[main] - APP/webroot/index.php, line 108
+

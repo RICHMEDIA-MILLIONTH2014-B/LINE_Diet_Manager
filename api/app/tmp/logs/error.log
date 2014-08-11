@@ -1,0 +1,600 @@
+2014-08-07 19:43:54 Error: [MissingPluginException] Plugin DubugKit could not be found.
+Exception Attributes: array (
+  'plugin' => 'DubugKit',
+)
+Request URL: /Internship/RICHMEDIA/api/
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(227): CakePlugin::path('DubugKit')
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(549): App::path('Controller/Comp...', 'DubugKit')
+#2 [internal function]: App::load('ToolbarComponen...')
+#3 [internal function]: spl_autoload_call('ToolbarComponen...')
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/ComponentCollection.php(110): class_exists('ToolbarComponen...')
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/ComponentCollection.php(53): ComponentCollection->load('DubugKit.Toolba...', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(643): ComponentCollection->init(Object(PagesController))
+#7 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(186): Controller->constructClasses()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PagesController), Object(CakeRequest))
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2014-08-07 21:50:33 Error: [MissingControllerException] Controller class Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Controller',
+  'plugin' => NULL,
+)
+Request URL: /Internship/RICHMEDIA/api/
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-08-07 21:53:31 Error: [MissingViewException] View file "/Users/yuta/public_html/Internship/RICHMEDIA/api/app/View/Posts/post.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Users/yuta/public_html/Internship/RICHMEDIA/api/app/View/Posts/post.ctp',
+)
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/View/View.php(468): View->_getViewFileName(NULL)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(954): View->render(NULL, NULL)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(198): Controller->render()
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-08-07 22:10:35 Error: Fatal Error (4): syntax error, unexpected 'var' (T_VAR) in [/Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php, line 5]
+2014-08-07 22:10:35 Error: [FatalErrorException] syntax error, unexpected 'var' (T_VAR)
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/yuta/pub...', 5)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/yuta/pub...', 5, Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/yuta/pub...', 5, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-08-07 22:11:34 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_id' at line 1
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('get_id', Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('get_id', Array, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('get_id', Array, Array)
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Model.php(808): DboSource->query('get_id', Array, Object(AppModel))
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): Model->__call('get_id', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): AppModel->get_id(2)
+#7 [internal function]: PostsController->post()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-08-07 22:14:26 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_id' at line 1
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('get_id', Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('get_id', Array, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('get_id', Array, Array)
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Model.php(808): DboSource->query('get_id', Array, Object(AppModel))
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): Model->__call('get_id', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): AppModel->get_id(2)
+#7 [internal function]: PostsController->post()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-08-07 22:14:50 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_id' at line 1
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('get_id', Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('get_id', Array, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('get_id', Array, Array)
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Model.php(808): DboSource->query('get_id', Array, Object(AppModel))
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): Model->__call('get_id', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): AppModel->get_id(2)
+#7 [internal function]: PostsController->post()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-08-07 22:14:58 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_id' at line 1
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('get_id', Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('get_id', Array, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('get_id', Array, Array)
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Model.php(808): DboSource->query('get_id', Array, Object(AppModel))
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): Model->__call('get_id', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): AppModel->get_id(2)
+#7 [internal function]: PostsController->post()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-08-07 22:15:36 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_id' at line 1
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('get_id', Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('get_id', Array, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('get_id', Array, Array)
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Model.php(808): DboSource->query('get_id', Array, Object(AppModel))
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): Model->__call('get_id', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): AppModel->get_id(2)
+#7 [internal function]: PostsController->post()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-08-07 22:15:36 Error: Fatal Error (4): syntax error, unexpected '<' in [/Users/yuta/public_html/Internship/RICHMEDIA/api/app/View/Layouts/default.ctp, line 2]
+2014-08-07 22:15:36 Error: [FatalErrorException] syntax error, unexpected '<'
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/yuta/pub...', 2)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/yuta/pub...', 2, Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/yuta/pub...', 2, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-08-07 22:15:44 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_id' at line 1
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('get_id', Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('get_id', Array, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('get_id', Array, Array)
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Model.php(808): DboSource->query('get_id', Array, Object(AppModel))
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): Model->__call('get_id', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): AppModel->get_id(2)
+#7 [internal function]: PostsController->post()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-08-07 22:16:17 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_id' at line 1
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('get_id', Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('get_id', Array, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('get_id', Array, Array)
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Model.php(808): DboSource->query('get_id', Array, Object(AppModel))
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): Model->__call('get_id', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): AppModel->get_id(2)
+#7 [internal function]: PostsController->post()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-08-07 22:16:59 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_id' at line 1
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('get_id', Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('get_id', Array, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('get_id', Array, Array)
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Model.php(808): DboSource->query('get_id', Array, Object(AppModel))
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): Model->__call('get_id', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): AppModel->get_id(2)
+#7 [internal function]: PostsController->post()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-08-07 22:17:11 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_id' at line 1
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('get_id', Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('get_id', Array, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('get_id', Array, Array)
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Model.php(808): DboSource->query('get_id', Array, Object(AppModel))
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): Model->__call('get_id', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): AppModel->get_id(2)
+#7 [internal function]: PostsController->post()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-08-07 22:17:20 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_id' at line 1
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('get_id', Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('get_id', Array, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('get_id', Array, Array)
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Model.php(808): DboSource->query('get_id', Array, Object(AppModel))
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): Model->__call('get_id', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): AppModel->get_id(2)
+#7 [internal function]: PostsController->post()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-08-07 22:17:28 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_id' at line 1
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('get_id', Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('get_id', Array, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('get_id', Array, Array)
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Model.php(808): DboSource->query('get_id', Array, Object(AppModel))
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): Model->__call('get_id', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): AppModel->get_id(2)
+#7 [internal function]: PostsController->post()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-08-07 22:17:33 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_id' at line 1
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('get_id', Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('get_id', Array, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('get_id', Array, Array)
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Model.php(808): DboSource->query('get_id', Array, Object(AppModel))
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): Model->__call('get_id', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): AppModel->get_id(2)
+#7 [internal function]: PostsController->post()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-08-07 22:17:43 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_id' at line 1
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('get_id', Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('get_id', Array, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('get_id', Array, Array)
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Model.php(808): DboSource->query('get_id', Array, Object(AppModel))
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): Model->__call('get_id', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): AppModel->get_id(2)
+#7 [internal function]: PostsController->post()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-08-07 22:17:52 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_id' at line 1
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('get_id', Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('get_id', Array, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('get_id', Array, Array)
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Model.php(808): DboSource->query('get_id', Array, Object(AppModel))
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): Model->__call('get_id', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): AppModel->get_id(2)
+#7 [internal function]: PostsController->post()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-08-07 22:17:54 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_id' at line 1
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('get_id', Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('get_id', Array, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('get_id', Array, Array)
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Model.php(808): DboSource->query('get_id', Array, Object(AppModel))
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): Model->__call('get_id', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): AppModel->get_id(2)
+#7 [internal function]: PostsController->post()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-08-07 22:17:57 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_id' at line 1
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('get_id', Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('get_id', Array, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('get_id', Array, Array)
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Model.php(808): DboSource->query('get_id', Array, Object(AppModel))
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): Model->__call('get_id', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): AppModel->get_id(2)
+#7 [internal function]: PostsController->post()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-08-07 22:18:23 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_id' at line 1
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('get_id', Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('get_id', Array, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('get_id', Array, Array)
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Model.php(808): DboSource->query('get_id', Array, Object(AppModel))
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): Model->__call('get_id', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): AppModel->get_id(2)
+#7 [internal function]: PostsController->post()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-08-07 22:18:39 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_id' at line 1
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('get_id', Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('get_id', Array, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('get_id', Array, Array)
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Model.php(808): DboSource->query('get_id', Array, Object(AppModel))
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): Model->__call('get_id', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): AppModel->get_id(2)
+#7 [internal function]: PostsController->post()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-08-07 22:19:02 Error: [PDOException] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'get_id' at line 1
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(458): PDOStatement->execute(Array)
+#1 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(424): DboSource->_execute('get_id', Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('get_id', Array, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Datasource/DboSource.php(609): DboSource->fetchAll('get_id', Array, Array)
+#4 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Model/Model.php(808): DboSource->query('get_id', Array, Object(AppModel))
+#5 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): Model->__call('get_id', Array)
+#6 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php(13): AppModel->get_id(2)
+#7 [internal function]: PostsController->post()
+#8 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#10 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Users/yuta/public_html/Internship/RICHMEDIA/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2014-08-07 22:20:37 Error: Fatal Error (1): Unsupported operand types in [/Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php, line 14]
+2014-08-07 22:20:37 Error: [FatalErrorException] Unsupported operand types
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Unsupported ope...', '/Users/yuta/pub...', 14)
+#1 [internal function]: ErrorHandler::handleError(1, 'Unsupported ope...', '/Users/yuta/pub...', 14, Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Unsupported ope...', '/Users/yuta/pub...', 14, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-08-07 22:36:09 Error: Fatal Error (4): syntax error, unexpected ')' in [/Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php, line 23]
+2014-08-07 22:36:09 Error: [FatalErrorException] syntax error, unexpected ')'
+Request URL: /Internship/RICHMEDIA/api/posts/post
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/yuta/pub...', 23)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/yuta/pub...', 23, Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/yuta/pub...', 23, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-08-07 23:00:58 Error: Fatal Error (1): Call to a member function write() on a non-object in [/Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php, line 41]
+2014-08-07 23:00:58 Error: [FatalErrorException] Call to a member function write() on a non-object
+Request URL: /Internship/RICHMEDIA/api/posts/post/0fea4991
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/yuta/pub...', 41)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/yuta/pub...', 41, Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/yuta/pub...', 41, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-08-07 23:07:43 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [/Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php, line 39]
+2014-08-07 23:07:43 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /Internship/RICHMEDIA/api/posts/post/0fea4991
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/yuta/pub...', 39)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/yuta/pub...', 39, Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/yuta/pub...', 39, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-08-07 23:10:09 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [/Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php, line 47]
+2014-08-07 23:10:09 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /Internship/RICHMEDIA/api/posts/post/0fea4991
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/yuta/pub...', 47)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/yuta/pub...', 47, Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/yuta/pub...', 47, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-08-07 23:10:46 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [/Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php, line 47]
+2014-08-07 23:10:46 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /Internship/RICHMEDIA/api/posts/post/0fea4991
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/yuta/pub...', 47)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/yuta/pub...', 47, Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/yuta/pub...', 47, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-08-07 23:14:31 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [/Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php, line 47]
+2014-08-07 23:14:31 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /Internship/RICHMEDIA/api/posts/post/0fea4991
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/yuta/pub...', 47)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/yuta/pub...', 47, Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/yuta/pub...', 47, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-08-07 23:14:54 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [/Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php, line 47]
+2014-08-07 23:14:54 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /Internship/RICHMEDIA/api/posts/post/0fea4991
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/yuta/pub...', 47)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/yuta/pub...', 47, Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/yuta/pub...', 47, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-08-07 23:14:55 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [/Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php, line 47]
+2014-08-07 23:14:55 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /Internship/RICHMEDIA/api/posts/post/0fea4991
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/yuta/pub...', 47)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/yuta/pub...', 47, Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/yuta/pub...', 47, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-08-07 23:14:55 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [/Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php, line 47]
+2014-08-07 23:14:55 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /Internship/RICHMEDIA/api/posts/post/0fea4991
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/yuta/pub...', 47)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/yuta/pub...', 47, Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/yuta/pub...', 47, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-08-07 23:15:17 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [/Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php, line 47]
+2014-08-07 23:15:17 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /Internship/RICHMEDIA/api/posts/post/0fea4991
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/yuta/pub...', 47)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/yuta/pub...', 47, Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/yuta/pub...', 47, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-08-07 23:15:46 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [/Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php, line 47]
+2014-08-07 23:15:46 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /Internship/RICHMEDIA/api/posts/post/0fea4991
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/yuta/pub...', 47)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/yuta/pub...', 47, Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/yuta/pub...', 47, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-08-07 23:15:46 Error: Fatal Error (4): syntax error, unexpected ';', expecting ')' in [/Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php, line 47]
+2014-08-07 23:15:46 Error: [FatalErrorException] syntax error, unexpected ';', expecting ')'
+Request URL: /Internship/RICHMEDIA/api/posts/post/0fea4991
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/Users/yuta/pub...', 47)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/Users/yuta/pub...', 47, Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/Users/yuta/pub...', 47, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-08-07 23:16:37 Error: Fatal Error (1): Call to a member function find() on a non-object in [/Users/yuta/public_html/Internship/RICHMEDIA/api/app/Controller/PostsController.php, line 43]
+2014-08-07 23:16:37 Error: [FatalErrorException] Call to a member function find() on a non-object
+Request URL: /Internship/RICHMEDIA/api/posts/post/0fea4991
+Stack Trace:
+#0 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Users/yuta/pub...', 43)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Users/yuta/pub...', 43, Array)
+#2 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Users/yuta/pub...', 43, Array)
+#3 /Users/yuta/public_html/Internship/RICHMEDIA/api/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-08-07 15:46:08 Error: [MissingTableException] Table users for model User was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'users',
+  'class' => 'User',
+  'ds' => 'default',
+)
+Request URL: /api/posts/post/
+Stack Trace:
+#0 /var/www/html/api/lib/Cake/Model/Model.php(3547): Model->setSource('users')
+#1 /var/www/html/api/lib/Cake/Model/Model.php(1759): Model->getDataSource()
+#2 /var/www/html/api/app/Controller/PostsController.php(18): Model->save(Array)
+#3 [internal function]: PostsController->post()
+#4 /var/www/html/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#5 /var/www/html/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#6 /var/www/html/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#7 /var/www/html/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2014-08-07 16:46:20 Error: [MissingControllerException] Controller class ApiController could not be found.
+Exception Attributes: array (
+  'class' => 'ApiController',
+  'plugin' => NULL,
+)
+Request URL: /api//api/recodes/graph/28683fre
+Stack Trace:
+#0 /var/www/html/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-08-07 16:51:14 Error: [MissingTableException] Table users for model User was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'users',
+  'class' => 'User',
+  'ds' => 'default',
+)
+Request URL: /api/recodes/graph/28683fre
+Stack Trace:
+#0 /var/www/html/api/lib/Cake/Model/Model.php(3547): Model->setSource('users')
+#1 /var/www/html/api/lib/Cake/Model/Model.php(2943): Model->getDataSource()
+#2 /var/www/html/api/lib/Cake/Model/Model.php(2915): Model->_readDataSource('first', Array)
+#3 /var/www/html/api/app/Controller/RecodesController.php(15): Model->find('first', Array)
+#4 [internal function]: RecodesController->graph('28683fre')
+#5 /var/www/html/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(RecodesController), Array)
+#6 /var/www/html/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/html/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(RecodesController), Object(CakeRequest))
+#8 /var/www/html/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-08-07 17:03:20 Error: [MissingTableException] Table users for model User was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'users',
+  'class' => 'User',
+  'ds' => 'default',
+)
+Request URL: /api/recodes/graph/28683fre
+Stack Trace:
+#0 /var/www/html/api/lib/Cake/Model/Model.php(3547): Model->setSource('users')
+#1 /var/www/html/api/lib/Cake/Model/Model.php(2943): Model->getDataSource()
+#2 /var/www/html/api/lib/Cake/Model/Model.php(2915): Model->_readDataSource('first', Array)
+#3 /var/www/html/api/app/Controller/RecodesController.php(15): Model->find('first', Array)
+#4 [internal function]: RecodesController->graph('28683fre')
+#5 /var/www/html/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(RecodesController), Array)
+#6 /var/www/html/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/html/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(RecodesController), Object(CakeRequest))
+#8 /var/www/html/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-08-07 17:04:09 Error: [MissingTableException] Table users for model User was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'users',
+  'class' => 'User',
+  'ds' => 'default',
+)
+Request URL: /api/recodes/graph/28683fre
+Stack Trace:
+#0 /var/www/html/api/lib/Cake/Model/Model.php(3547): Model->setSource('users')
+#1 /var/www/html/api/lib/Cake/Model/Model.php(2943): Model->getDataSource()
+#2 /var/www/html/api/lib/Cake/Model/Model.php(2915): Model->_readDataSource('first', Array)
+#3 /var/www/html/api/app/Controller/RecodesController.php(15): Model->find('first', Array)
+#4 [internal function]: RecodesController->graph('28683fre')
+#5 /var/www/html/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(RecodesController), Array)
+#6 /var/www/html/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/html/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(RecodesController), Object(CakeRequest))
+#8 /var/www/html/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2014-08-07 17:04:37 Error: [MissingTableException] Table users for model User was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'users',
+  'class' => 'User',
+  'ds' => 'default',
+)
+Request URL: /api/recodes/graph/28683fre
+Stack Trace:
+#0 /var/www/html/api/lib/Cake/Model/Model.php(3547): Model->setSource('users')
+#1 /var/www/html/api/lib/Cake/Model/Model.php(2943): Model->getDataSource()
+#2 /var/www/html/api/lib/Cake/Model/Model.php(2915): Model->_readDataSource('first', Array)
+#3 /var/www/html/api/app/Controller/RecodesController.php(15): Model->find('first', Array)
+#4 [internal function]: RecodesController->graph('28683fre')
+#5 /var/www/html/api/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(RecodesController), Array)
+#6 /var/www/html/api/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#7 /var/www/html/api/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(RecodesController), Object(CakeRequest))
+#8 /var/www/html/api/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}

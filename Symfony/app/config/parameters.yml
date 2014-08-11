@@ -1,0 +1,14 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_driver: pdo_mysql
+    database_host: 127.0.0.1
+    database_port: 3306
+    database_name: Symphony
+    database_user: Symphony
+    database_password: ngJky5dGHGgWAJyJNR4hNFLtT7m2YLzDpNP
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    locale: en
+    secret: ifdUAVRnPVGdqsSGpB9GPZCtCYzi83iYfZH

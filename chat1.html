@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+	<html lang=”ja”>
+	<head>
+		<meta charset="utf-8">
+		<title>LINE ダイエット マネージャー</title>
+		<link rel='stylesheet' type="text/css" href="/css/display.css"></style>
+		<style>
+			#todolist {
+				list-style-type: none;
+/* 
+				padding-left: 0px;
+ */
+			}
+		</style>
+	</head>
+	<body>
+		<header>
+			<div class="title">LINE ダイエット マネージャー</div>
+		</header>
+		<div class="talk">
+			<ul id="todolist"></ul>
+		</div>
+		<footer>
+			<input type="text" id="todoinput">
+			<input type="submit" id="todobutton">
+		</footer>
+		<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+		<script>
+			$(function() {
+				
+				var $todobutton = $('#todobutton');
+				var $todoinput = $('#todoinput');
+				var $todolist = $('#todolist');
+				var data_context='';
+				var data_methodid='';
+				
+				var makePostData=function(text){
+				  if(data_context==''&&data_methodid==''){
+				    console.log('ok');
+				    return {
+				      value : text
+			  	    };
+				  }else{
+				    return {
+				      value : text,
+				      context : data_context,
+				      method_id : data_methodid
+				    };
+				  }
+				};
+ 	
+
+
+
+
+				$todobutton.click(function() {
+					var $todo = $('<li>');
+					var text = $todoinput.val();
+					var dom  = '<li class=\'right\'>' + text + '</li>';
+					$todolist.append(dom);
+				});
+
+
+				$todobutton.click(function() {
+
+					var text = $todoinput.val();
+					
+					var post_data = makePostData(text);
+					console.log("postdata:",post_data);
+					$.ajax({
+						type: 'POST',
+						dataType:'json',
+						url:'http://153.121.71.172/api/posts/post/28683fre/',
+						data:JSON.stringify(post_data),
+						success:function(json) {
+							console.log(json);
+							var context = (json.Status)?json.Status.context:"";
+							var method_id = (json.Status)?json.Status.method_id:"";
+							var dom = 
+								'<li class=\'left\'>'
+								+ json.Message.value
+								+ '</li>';
+							dom = $(dom).attr("data-context",context).attr("data-methodid", method_id);
+
+							$todolist.append(dom);
+							
+							data_context=$todolist.find('li:last').attr('data-context');
+							data_methodid=$todolist.find('li:last').attr('data-methodid');
+							console.log(data_context);
+							console.log(data_methodid);
+						},
+						error:function(XMLHttpRequest, textStatus, errorThrown) {
+							alert("fuck");
+						}
+					});
+				})
+			});
+		</script>
+	</body>
+</html>
